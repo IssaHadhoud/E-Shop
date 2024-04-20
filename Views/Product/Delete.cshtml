@@ -1,0 +1,48 @@
+@model E_Shop.Models.Product
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h1 a class="link-light">Delete</h1>
+
+<h3 a class="link-light">Are you sure you want to delete this?</h3>
+<div>
+    <h4 a class="link-light">Product</h4>
+    <hr />
+    <dl class="container">
+           
+        <dt class="row border">
+            <img  asp-route-id="@Model.ID"><img src="@Model.ImageURL" width="200" height="200"> 
+        </dt>
+        <dt  class="row border link-light text-black">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd  class="row border link-light text-black">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt  class="row border link-light text-black">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd class="row border link-light text-black">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        
+        <dt  class="row border link-light text-black">
+            @Html.DisplayNameFor(model => model.Detalis)
+        </dt>
+        <dd  class="row border link-light text-break">
+            @Html.DisplayFor(model => model.Detalis)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+
+        @using (Html.BeginForm("Delete", "Product", new { id = Model.ID }, FormMethod.Post))
+        {
+            <input type="submit" value="Delete" class="btn btn-danger" />
+        }|
+        <a asp-action="Index"class="btn btn-outline-danger">Back to List</a>
+    </form>
+</div>

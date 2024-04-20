@@ -1,0 +1,51 @@
+@model List<E_Shop.Models.Product>
+
+
+<h2>Shopping Cart</h2>
+
+@if (Model.Count == 0)
+{
+    <p>Your cart is empty.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Image</th>
+                <th>Product</th>
+                <th>Price</th>
+                 <th>Remove</th>
+                <th>Total</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td><a asp-controller="Product" asp-action="Details" asp-route-id="@product.ID">
+                        <img src="@product.ImageURL" alt="@product.Name" style="width: 150px;" />
+                    </a></td>
+                    <td>@product.Name</td>
+                    <td>@product.Price.ToString("C")</td>
+                      <td>
+                        <form asp-controller="Cart" asp-action="RemoveFromCart" method="post">
+                            <input type="hidden" name="id" value="@product.ID" />
+                            <button type="submit" class="btn btn-danger">Remove</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+            <tr>
+                <td colspan="4" align="right"><strong>Total:</strong></td>
+                <td>@Model.Sum(p => p.Price).ToString("C")</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    @* <div> *@
+    @*     <a href="@Url.Action("Checkout", "Home")" class="btn btn-primary">Proceed to Checkout</a> *@
+    @* </div> *@
+}

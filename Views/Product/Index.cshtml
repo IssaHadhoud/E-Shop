@@ -1,0 +1,29 @@
+@model List<E_Shop.Models.Product>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<meta charset="utf-8">
+<link rel="stylesheet" href="~/css/Product.css">
+<script src="js/site.js"></script>
+<div class="product-list">
+    @foreach (var product in Model)
+    {
+        <div class="product-card">
+            <div class="product-image">
+                <a asp-action="Details" asp-route-id="@product?.ID"><img src="@product.ImageURL" alt="@product.Name"></a>
+            </div>
+            <div class="product-details">
+                <h2 class="product-name">@product.Name</h2>
+                <p class="product-description">@product.Detalis</p>
+                <h3 class="product-description">@product.Type</h3>
+                <div class="product-price">
+                    <span class="currency-symbol">$</span>
+                    <span class="price-amount">@product.Price</span>
+                </div>
+            </div>
+        </div>
+    }
+</div>

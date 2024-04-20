@@ -1,0 +1,24 @@
+@model E_Shop.Models.Product
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+<link rel="stylesheet" href="~/css/Details.css">
+<div class="product-details">
+	<div class="product-image">
+		<img src="@Model.ImageURL" alt="Product Image">
+	</div>
+	<div class="product-info">
+		<h2>@Model.Name</h2>
+	 	<p>@Model.Detalis</p>
+		<form asp-controller="Cart" asp-action="AddToCart" method="post">
+			<input type="hidden" name="id" value="@Model.ID" />
+			 <input type="number" id="" name="Quantity" value="1" min="1" max="10" />
+            <input type="submit" value="Add to Cart">
+		</form>
+		<a asp-action="Edit" asp-route-id="@Model.ID" class="btn btn-primary" >Edit</a>
+		<a asp-action="Delete" asp-route-id="@Model.ID" class="btn btn-danger">Delete</a>
+		<a asp-action="Index"   class="btn btn-primary">Back to List</a>
+
+	</div>
+</div>

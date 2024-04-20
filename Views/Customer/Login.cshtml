@@ -1,0 +1,101 @@
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model E_Shop.ViewModel.LoginViewModel
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login Form</title>
+	<style>
+		* {
+			box-sizing: border-box;
+		}
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f4f4f4;
+		}
+		.container {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			height: 100vh;
+		}
+		.form-container {
+			background-color: #fff;
+			border-radius: 10px;
+			box-shadow: 0px 0px 10px #ccc;
+			display: flex;
+			flex-direction: row;
+			width: 80%;
+			max-width: 1000px;
+			height: 80%;
+			max-height: 600px;
+			overflow: hidden;
+		}
+		.left-side {
+			background-color: #333;
+			color: #fff;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			width: 50%;
+			padding: 50px;
+		}
+		.right-side {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			width: 50%;
+			padding: 50px;
+		}
+		h1 {
+			margin-top: 0;
+			margin-bottom: 30px;
+		}
+		input[type=text], input[type=password] {
+			padding: 10px;
+			margin-bottom: 20px;
+			border-radius: 5px;
+			border: none;
+			background-color: #f4f4f4;
+			font-size: 16px;
+			width: 100%;
+		}
+		input[type=submit] {
+			background-color: #333;
+			color: #fff;
+			border: none;
+			border-radius: 5px;
+			padding: 10px 20px;
+			font-size: 16px;
+			cursor: pointer;
+		}
+		input[type=submit]:hover {
+			background-color: #555;
+		}
+	
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="form-container">
+			<div class="left-side">
+				<h1>Welcome Back!</h1>
+				<p>Enter your Email and password to log in.</p>
+			</div>
+			<div class="right-side">
+				<form asp-action="Login" method="post">
+					<label for="Email">Email:</label>
+					<input type="text" id="Email" name="Email" required>
+
+					<label for="Password">Password:</label>
+					<input type="Password" id="Password" name="Password" required>
+					<input type="submit" value="Log In">
+					<a asp-action="Register" class="btn btn-primary">Register</a>
+				</form>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

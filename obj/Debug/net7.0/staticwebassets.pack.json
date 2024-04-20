@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/obj/Debug/net7.0/scopedcss/projectbundle/E_Shop.bundle.scp.css",
+      "PackagePath": "staticwebassets/E_Shop.bundle.scp.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/092817b4-fead-4f1f-a016-5fbeb113bc41.jpeg",
+      "PackagePath": "staticwebassets/Images/092817b4-fead-4f1f-a016-5fbeb113bc41.jpeg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/1e590a0a-34f8-4add-ad2e-678180f84018.jpeg",
+      "PackagePath": "staticwebassets/Images/1e590a0a-34f8-4add-ad2e-678180f84018.jpeg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/21692b44-757d-4a7f-a6ee-8dc2d7b29e09.png",
+      "PackagePath": "staticwebassets/Images/21692b44-757d-4a7f-a6ee-8dc2d7b29e09.png"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/37d705c5-a5f0-484e-9385-d64a3ec24cef.jpg",
+      "PackagePath": "staticwebassets/Images/37d705c5-a5f0-484e-9385-d64a3ec24cef.jpg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/6a0eb79a-a48c-4878-80ed-582c6904e18f.jpg",
+      "PackagePath": "staticwebassets/Images/6a0eb79a-a48c-4878-80ed-582c6904e18f.jpg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/79d8ff40-98b6-448c-930d-abff3dfa150c.jpeg",
+      "PackagePath": "staticwebassets/Images/79d8ff40-98b6-448c-930d-abff3dfa150c.jpeg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/9d044ba9-dcf3-4d3d-bb61-8372491f33a4.jpg",
+      "PackagePath": "staticwebassets/Images/9d044ba9-dcf3-4d3d-bb61-8372491f33a4.jpg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/add-button-icon-vector-21679778.jpg",
+      "PackagePath": "staticwebassets/Images/add-button-icon-vector-21679778.jpg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/bd13a79b-76dc-48d5-89da-e37206149a62.jpeg",
+      "PackagePath": "staticwebassets/Images/bd13a79b-76dc-48d5-89da-e37206149a62.jpeg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/c3883764-284b-4909-a325-af06e84daf1b.jpeg",
+      "PackagePath": "staticwebassets/Images/c3883764-284b-4909-a325-af06e84daf1b.jpeg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/ce409d46-2149-41c2-b0f1-479a58fe350b.jpeg",
+      "PackagePath": "staticwebassets/Images/ce409d46-2149-41c2-b0f1-479a58fe350b.jpeg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/ce5eb70e-abe0-40b8-bd8f-66912b0cb293.jpeg",
+      "PackagePath": "staticwebassets/Images/ce5eb70e-abe0-40b8-bd8f-66912b0cb293.jpeg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/e42c432d-342e-4e29-8c9e-76a1dad9a6da.jpeg",
+      "PackagePath": "staticwebassets/Images/e42c432d-342e-4e29-8c9e-76a1dad9a6da.jpeg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/e8c01c1e-ef15-4e7b-937f-846adb3cc9f2.jpeg",
+      "PackagePath": "staticwebassets/Images/e8c01c1e-ef15-4e7b-937f-846adb3cc9f2.jpeg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/ea93d4a1-f51d-4b83-bdca-4ba73916c385.jpeg",
+      "PackagePath": "staticwebassets/Images/ea93d4a1-f51d-4b83-bdca-4ba73916c385.jpeg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/eb5c2b43-5286-492d-b0ab-c59e612048dc.jpeg",
+      "PackagePath": "staticwebassets/Images/eb5c2b43-5286-492d-b0ab-c59e612048dc.jpeg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/ff0c46be-fbe3-45e6-b056-eb944a87ce4e.jpeg",
+      "PackagePath": "staticwebassets/Images/ff0c46be-fbe3-45e6-b056-eb944a87ce4e.jpeg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/Images/user-solid.svg",
+      "PackagePath": "staticwebassets/Images/user-solid.svg"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/css/Details.css",
+      "PackagePath": "staticwebassets/css/Details.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/css/Product.css",
+      "PackagePath": "staticwebassets/css/Product.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/issa/RiderProjects/E_Shop/E_Shop/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.E_Shop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.E_Shop.props",
+      "PackagePath": "build\\E_Shop.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.E_Shop.props",
+      "PackagePath": "buildMultiTargeting\\E_Shop.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.E_Shop.props",
+      "PackagePath": "buildTransitive\\E_Shop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
